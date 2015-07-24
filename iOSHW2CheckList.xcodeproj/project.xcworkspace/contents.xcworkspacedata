@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../iOSHW2CheckList/addItem.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../iOSHW2CheckList/addCheckList.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../iOSHW2CheckList/nameofCheckList.swift">
+   </FileRef>
+   <FileRef
+      location = "self:iOSHW2CheckList.xcodeproj">
+   </FileRef>
+</Workspace>
